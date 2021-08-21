@@ -22,12 +22,6 @@
             <description><![CDATA[Hi, my name is Jordan. I like to play badminton, Soccer, basketball, and tennis. Also,]]></description>
         </item>
         <item>
-            <title><![CDATA[About]]></title>
-            <link>https://georgezhang.github.io/blog/About</link>
-            <guid>About</guid>
-            <pubDate>Wed, 14 Jul 2021 16:33:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[About Tianze]]></title>
             <link>https://georgezhang.github.io/blog/about_tianze</link>
             <guid>about_tianze</guid>
@@ -35,11 +29,10 @@
             <description><![CDATA[Hello]]></description>
         </item>
         <item>
-            <title><![CDATA[About Yania]]></title>
-            <link>https://georgezhang.github.io/blog/yania_biography</link>
-            <guid>yania_biography</guid>
+            <title><![CDATA[About]]></title>
+            <link>https://georgezhang.github.io/blog/About</link>
+            <guid>About</guid>
             <pubDate>Wed, 14 Jul 2021 16:33:24 GMT</pubDate>
-            <description><![CDATA[Hi, my name is Yania.]]></description>
         </item>
         <item>
             <title><![CDATA[Jialin - Biography]]></title>
@@ -49,13 +42,6 @@
             <description><![CDATA[Hello! My name is Jialin and I am currently going to school at Lillian Osborne High School in Edmonton, Alberta. I enjoy playing badminton and volleyball and I also love reading history. My role in this project is to take a leading position in this website's development.]]></description>
         </item>
         <item>
-            <title><![CDATA[Hi~]]></title>
-            <link>https://georgezhang.github.io/blog/Hi~</link>
-            <guid>Hi~</guid>
-            <pubDate>Wed, 14 Jul 2021 16:33:24 GMT</pubDate>
-            <description><![CDATA[Hi~ my name is Olivia.]]></description>
-        </item>
-        <item>
             <title><![CDATA[Edward - About Me]]></title>
             <link>https://georgezhang.github.io/blog/edward_about</link>
             <guid>edward_about</guid>
@@ -63,11 +49,25 @@
             <description><![CDATA[Hi]]></description>
         </item>
         <item>
+            <title><![CDATA[About Yania]]></title>
+            <link>https://georgezhang.github.io/blog/yania_biography</link>
+            <guid>yania_biography</guid>
+            <pubDate>Wed, 14 Jul 2021 16:33:24 GMT</pubDate>
+            <description><![CDATA[Hi, my name is Yania.]]></description>
+        </item>
+        <item>
             <title><![CDATA[About]]></title>
             <link>https://georgezhang.github.io/blog/hao_about</link>
             <guid>hao_about</guid>
             <pubDate>Wed, 14 Jul 2021 16:33:24 GMT</pubDate>
             <description><![CDATA[Hello, I'm Hao.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hi~]]></title>
+            <link>https://georgezhang.github.io/blog/Hi~</link>
+            <guid>Hi~</guid>
+            <pubDate>Wed, 14 Jul 2021 16:33:24 GMT</pubDate>
+            <description><![CDATA[Hi~ my name is Olivia.]]></description>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
