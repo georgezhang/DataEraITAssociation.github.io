@@ -22,31 +22,17 @@
         <summary type="html"><![CDATA[Hi, my name is Jordan. I like to play badminton, Soccer, basketball, and tennis. Also,]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[About Tianze]]></title>
-        <id>about_tianze</id>
-        <link href="https://georgezhang.github.io/blog/about_tianze"/>
-        <updated>2021-07-14T16:33:24.878Z</updated>
-        <summary type="html"><![CDATA[Hello]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[About]]></title>
         <id>About</id>
         <link href="https://georgezhang.github.io/blog/About"/>
         <updated>2021-07-14T16:33:24.878Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jialin - Biography]]></title>
-        <id>jialin_biography</id>
-        <link href="https://georgezhang.github.io/blog/jialin_biography"/>
-        <updated>2021-07-14T16:33:24.877Z</updated>
-        <summary type="html"><![CDATA[Hello! My name is Jialin and I am currently going to school at Lillian Osborne High School in Edmonton, Alberta. I enjoy playing badminton and volleyball and I also love reading history. My role in this project is to take a leading position in this website's development.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edward - About Me]]></title>
-        <id>edward_about</id>
-        <link href="https://georgezhang.github.io/blog/edward_about"/>
-        <updated>2021-07-14T16:33:24.877Z</updated>
-        <summary type="html"><![CDATA[Hi]]></summary>
+        <title type="html"><![CDATA[About Tianze]]></title>
+        <id>about_tianze</id>
+        <link href="https://georgezhang.github.io/blog/about_tianze"/>
+        <updated>2021-07-14T16:33:24.878Z</updated>
+        <summary type="html"><![CDATA[Hello]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[About Yania]]></title>
@@ -56,11 +42,25 @@
         <summary type="html"><![CDATA[Hi, my name is Yania.]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jialin - Biography]]></title>
+        <id>jialin_biography</id>
+        <link href="https://georgezhang.github.io/blog/jialin_biography"/>
+        <updated>2021-07-14T16:33:24.877Z</updated>
+        <summary type="html"><![CDATA[Hello! My name is Jialin and I am currently going to school at Lillian Osborne High School in Edmonton, Alberta. I enjoy playing badminton and volleyball and I also love reading history. My role in this project is to take a leading position in this website's development.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[About]]></title>
         <id>hao_about</id>
         <link href="https://georgezhang.github.io/blog/hao_about"/>
         <updated>2021-07-14T16:33:24.877Z</updated>
         <summary type="html"><![CDATA[Hello, I'm Hao.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edward - About Me]]></title>
+        <id>edward_about</id>
+        <link href="https://georgezhang.github.io/blog/edward_about"/>
+        <updated>2021-07-14T16:33:24.877Z</updated>
+        <summary type="html"><![CDATA[Hi]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hi~]]></title>
